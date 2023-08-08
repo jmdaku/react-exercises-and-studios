@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Rigatoni with Easy Vodka Sauce",
+     "author": "Claire Saffitz",
+     "description": "TBefore you convince yourself there's no way that a little onion, tomato paste, and cream can come together in mere minutes to make one of the best homemade pasta sauces you've ever had, hear us out.",
+     "website": "https://www.bonappetit.com/recipe/rigatoni-with-easy-vodka-sauce",
+     "recipeImage": "https://assets.bonappetit.com/photos/5a8da4996497380283798c16/1:1/w_1280,c_limit/rigatoni-with-vodka-sauce.jpg",
+     "authorImage": "https://assets.bonappetit.com/photos/57bf2c726a6acdf3485df6a8/1:1/w_320,c_limit/claire-saffitz.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
+       "rigatoni",
+       "double-concentrated tomato paste",
+       "vodka",
        "heavy cream",
-       "milk"
+       "parmesan cheese"
      ]
    }
  ]

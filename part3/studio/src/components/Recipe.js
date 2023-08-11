@@ -1,7 +1,7 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://www.kingarthurbaking.com/author/charlotte-rutledge";
+   let authorPhoto = "https://www.kingarthurbaking.com/sites/default/files/styles/scaled_very_small_250w/public/2022-06/Charlotte-Rutledge-.jpg?itok=UJJypdjY";
+   let authorName = "Charlotte Rutledge";
 
    return (
       <div>
@@ -15,7 +15,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["flour", "whole milk", "butter", "brown sugar", "cinnamon"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -47,7 +47,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2020-12/perfectly-pillowy-cinnamon-rolls.jpg?itok=03h7-5jI" alt="Cinnamon Rolls" className="imageUpdates"/>
    );
 }
 
